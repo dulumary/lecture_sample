@@ -6,3 +6,6 @@
    
 ### Java  
 [바로가기](java_programming/README.md)
+
+
+#### 해당 강의 자료는 상업적인 용도로 수정/배포는 금지 됩니다.
